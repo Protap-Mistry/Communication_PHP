@@ -1,0 +1,22 @@
+#junction h3
+{
+ 	color: black;
+	padding: 10px;
+	margin-bottom: 10px;
+	border-bottom:  2px solid black;
+	text-align: center;
+}
+#junction p
+{
+ 	margin-bottom: 10px;
+	color: #fff;
+	font-size: 20px;
+	text-align: justify;
+}
+#footer_active
+{
+	background-color: gray;
+	cursor: pointer;
+	border-radius: 20px;
+	padding: 5px 10px;
+}

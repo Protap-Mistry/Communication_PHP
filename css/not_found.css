@@ -1,0 +1,15 @@
+.notfound {
+  min-height: 400px;
+  padding-top: 100px;
+}
+.notfound p {
+  font-size: 100px;
+  font-weight: bold;
+  line-height: 137px;
+  text-align: center;
+}
+.notfound p span {
+  color: #ff0000;
+  display: block;
+  font-size: 200px;
+}

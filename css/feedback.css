@@ -1,0 +1,57 @@
+#opinion h3
+{
+	color: black;
+	padding: 10px;
+	margin-bottom: 10px;
+	border-bottom:  2px solid black;
+	text-align: center;
+}
+#tbl td
+{
+	color: #fff;
+	font-size: 16px;
+	font-weight: bold;
+}
+input[type="text"], input[type="email"]
+{
+	width: 300px;
+	padding: 5px;
+	margin-bottom: 10px; 
+	border:  2px solid #2C3539;
+}
+textarea
+{
+	width: 310px;
+	height: 150px;
+	border:  2px solid #2C3539;
+}
+input[type="submit"]
+{
+	font-weight: bold;
+	padding: 5px 10px;
+	background-color: black;
+	color: #fff;
+	cursor: pointer;
+}
+input[type="submit"]:hover
+{
+	background-color: #fff;
+	color: black;
+}
+#opinion a
+{
+	text-decoration: none;
+	color: #fff;
+	font-size: 20px;
+}
+#opinion a:hover
+{
+	color: blue;
+}
+#footer_active
+{
+	background-color: gray;
+	cursor: pointer;
+	border-radius: 20px;
+	padding: 5px 10px;
+}
